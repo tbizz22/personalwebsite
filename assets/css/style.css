@@ -273,8 +273,11 @@ body {
 ***** personal *****
 
 */
-.personal {
-  
+.titleoverlay {
+  position: absolute;
+  background-color: #564d52;
+  opacity: .1;
+  width: 100%;
 }
 
 /* style for
